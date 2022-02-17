@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = "github.com/themefisher/twenty-twenty-hugo"
-title = "SPOL"
+title = "SPOL ry"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
