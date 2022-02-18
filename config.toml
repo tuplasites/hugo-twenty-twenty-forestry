@@ -6,7 +6,7 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 summaryLength = "10"
-theme = "github.com/hugo-twenty-twenty-forestry/"
+theme = "github.com/tuplasites/theme"
 title = "SPOL ry"
 [markup.goldmark.renderer]
 unsafe = true
