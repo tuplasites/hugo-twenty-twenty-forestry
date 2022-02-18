@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/github.com/tuplasites/"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
@@ -6,7 +6,7 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 summaryLength = "10"
-theme = "github.com/tuplasites/themes/theme"
+theme = "themes/theme"
 title = "SPOL ry"
 [markup.goldmark.renderer]
 unsafe = true
