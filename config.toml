@@ -10,30 +10,26 @@ theme = "theme"
 title = "SPOL ry"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.desktop]]
-URL = "contact"
-name = "Ota yhteyttä"
-weight = 1
-[[menu.main]]
-URL = "/"
-name = "Hallitus"
-weight = 1
-[[menu.main]]
-URL = "/"
-name = "Blogi"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Jäsenet"
-weight = 3
-[[menu.main]]
-URL = "contact"
-name = "Yhteistyö"
-weight = 4
 [[menu.main]]
 URL = "sample-page"
-name = "Dokumentit"
+name = "Sample Page"
 weight = 5
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
