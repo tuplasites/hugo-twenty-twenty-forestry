@@ -12,7 +12,7 @@ title = "SPOL ry"
 unsafe = true
 [[menu.desktop]]
 URL = "contact"
-name = "Contact"
+name = "Ota yhteyttä"
 weight = 1
 [[menu.main]]
 URL = "/"
