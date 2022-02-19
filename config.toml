@@ -16,23 +16,23 @@ name = "Ota yhteyttä"
 weight = 1
 [[menu.main]]
 URL = "/"
-name = "Home"
+name = "Hallitus"
 weight = 1
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "/"
+name = "Blogi"
 weight = 2
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Jäsenet"
 weight = 3
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Yhteistyö"
 weight = 4
 [[menu.main]]
 URL = "sample-page"
-name = "Sample Page"
+name = "Dokumentit"
 weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
